@@ -1,0 +1,16 @@
+*
+!.gitignore
+!platformio.ini
+!Arduino/
+!Arduino/examples/
+!Arduino/examples/13_bme280_env_clock/
+!Arduino/examples/13_bme280_env_clock/**
+!Arduino/libraries/
+!Arduino/libraries/OneButton/
+!Arduino/libraries/OneButton/**
+!Arduino/libraries/FastIMU/
+!Arduino/libraries/FastIMU/**
+Arduino/libraries/FastIMU/datasheets/
+Arduino/libraries/FastIMU/*.png
+!Arduino/libraries/ESP32_S3_LCD2_Board/
+!Arduino/libraries/ESP32_S3_LCD2_Board/**

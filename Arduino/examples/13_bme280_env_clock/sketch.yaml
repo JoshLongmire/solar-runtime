@@ -1,0 +1,7 @@
+# Arduino IDE 2 profile: project GFX library (JPEGDEC from Library Manager / Documents/Arduino/libraries)
+profiles:
+  default:
+    platforms:
+      - platform: esp32:esp32
+    libraries:
+      - dir: ../../libraries/GFX_Library_for_Arduino
